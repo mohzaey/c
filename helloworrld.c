@@ -5,4 +5,6 @@ int main()
 {
     printf("Hello world is a starter");
     return 0;
+    print("my name is jack");
+    return 0;
 } 
