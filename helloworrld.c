@@ -7,4 +7,6 @@ int main()
     return 0;
     print("my name is jack");
     return 0;
-} 
+    printf("ameri");
+    return 0;
+}
