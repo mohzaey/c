@@ -9,4 +9,6 @@ int main()
     return 0;
     printf("ameri");
     return 0;
+    printf("own hands");
+    return 0;
 }
